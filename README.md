@@ -1,3 +1,3 @@
-# My Awesome Book
+# 设计模式
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Sunny在CSDN技术博客中陆续发表了100多篇与设计模式学习相关的文章，涵盖了七个面向对象设计原则和24个设计模式（23个GoF设计模式 +  简单工厂模式），为了方便大家学习，现将所有文章的链接进行了整理，希望能给各位带来帮助！
