@@ -15,5 +15,5 @@
        * [面向对象设计原则之合成复用原则](面向对象设计原则之合成复用原则.md)
        * [面向对象设计原则之迪米特法则](面向对象设计原则之迪米特法则.md)
 * [六个创建型模式](六个创建型模式.md)
-   * 简单工厂模式-Simple Factory Pattern
+   * [简单工厂模式-Simple Factory Pattern](简单工厂模式-Simple Factory Pattern.md)
 
