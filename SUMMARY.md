@@ -49,6 +49,6 @@
 * [七个结构型模式](七个结构型模式.md)
    * [适配器模式-Adapter Pattern](适配器模式-Adapter Pattern.md)
    * [桥接模式-Bridge Pattern](桥接模式-Bridge Pattern.md)
-   * 组合模式-Composite Pattern
+   * [组合模式-Composite Pattern](组合模式-Composite Pattern.md)
 * [十一个行为型模式](十一个行为型模式.md)
 
