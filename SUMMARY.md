@@ -66,5 +66,5 @@
    * [策略模式-Strategy Pattern](策略模式-Strategy Pattern.md)
    * [模板方法模式-Template Method Pattern](模板方法模式-Template Method Pattern.md)
    * [访问者模式-Visitor Pattern](访问者模式-Visitor Pattern.md)
-* 设计模式综合应用实例
+* [设计模式综合应用实例](设计模式综合应用实例.md)
 
