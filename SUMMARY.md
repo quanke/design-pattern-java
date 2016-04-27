@@ -60,7 +60,7 @@
    * [组合模式-Composite Pattern](组合模式-Composite Pattern.md)
        * [树形结构的处理——组合模式（一）](树形结构的处理——组合模式（一）.md)
        * [树形结构的处理——组合模式（二）](树形结构的处理——组合模式（二）.md)
-       * 树形结构的处理——组合模式（三）
+       * [树形结构的处理——组合模式（三）](树形结构的处理——组合模式（三）.md)
    * [装饰模式-Decorator Pattern](装饰模式-Decorator Pattern.md)
    * [外观模式-Facade Pattern](外观模式-Facade Pattern.md)
    * [享元模式-Flyweight Pattern](享元模式-Flyweight Pattern.md)
