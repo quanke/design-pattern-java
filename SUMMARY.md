@@ -104,7 +104,7 @@
        * [自定义语言的实现——解释器模式（五）](自定义语言的实现——解释器模式（五）.md)
        * [自定义语言的实现——解释器模式（六）](自定义语言的实现——解释器模式（六）.md)
    * [迭代器模式-Iterator Pattern](迭代器模式-Iterator Pattern.md)
-       * 遍历聚合对象中的元素——迭代器模式（一）
+       * [遍历聚合对象中的元素——迭代器模式（一）](遍历聚合对象中的元素——迭代器模式（一）.md)
    * [中介者模式-Mediator Pattern](中介者模式-Mediator Pattern.md)
    * [备忘录模式-Memento Pattern](备忘录模式-Memento Pattern.md)
    * [观察者模式-Observer Pattern](观察者模式-Observer Pattern.md)
