@@ -80,6 +80,7 @@
        * [实现对象的复用——享元模式（五）](实现对象的复用——享元模式（五）.md)
    * [代理模式-Proxy Pattern](代理模式-Proxy Pattern.md)
        * [设计模式之代理模式（一）](设计模式之代理模式（一）.md)
+       * 设计模式之代理模式（二）
 * [十一个行为型模式](十一个行为型模式.md)
    * [职责链模式-Chain of Responsibility Pattern](职责链模式-Chain of Responsibility Pattern.md)
    * [命令模式-Command Pattern](命令模式-Command Pattern.md)
