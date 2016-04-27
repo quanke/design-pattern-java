@@ -65,5 +65,5 @@
    * [状态模式-State Pattern](状态模式-State Pattern.md)
    * [策略模式-Strategy Pattern](策略模式-Strategy Pattern.md)
    * [模板方法模式-Template Method Pattern](模板方法模式-Template Method Pattern.md)
-   * 访问者模式-Visitor Pattern
+   * [访问者模式-Visitor Pattern](访问者模式-Visitor Pattern.md)
 
