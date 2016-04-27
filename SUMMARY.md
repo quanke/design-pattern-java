@@ -64,6 +64,7 @@
        * [树形结构的处理——组合模式（四）](树形结构的处理——组合模式（四）.md)
        * [树形结构的处理——组合模式（五）](树形结构的处理——组合模式（五）.md)
    * [装饰模式-Decorator Pattern](装饰模式-Decorator Pattern.md)
+       * 装饰模式-Decorator Pattern
    * [外观模式-Facade Pattern](外观模式-Facade Pattern.md)
    * [享元模式-Flyweight Pattern](享元模式-Flyweight Pattern.md)
    * [代理模式-Proxy Pattern](代理模式-Proxy Pattern.md)
