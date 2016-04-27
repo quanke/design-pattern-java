@@ -74,7 +74,7 @@
        * [深入浅出外观模式（三）](深入浅出外观模式（三）.md)
    * [享元模式-Flyweight Pattern](享元模式-Flyweight Pattern.md)
        * [实现对象的复用——享元模式（一）](实现对象的复用——享元模式（一）.md)
-       * 实现对象的复用——享元模式（二）
+       * [实现对象的复用——享元模式（二）](实现对象的复用——享元模式（二）.md)
    * [代理模式-Proxy Pattern](代理模式-Proxy Pattern.md)
 * [十一个行为型模式](十一个行为型模式.md)
    * [职责链模式-Chain of Responsibility Pattern](职责链模式-Chain of Responsibility Pattern.md)
