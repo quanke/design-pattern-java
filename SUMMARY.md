@@ -58,5 +58,5 @@
    * [职责链模式-Chain of Responsibility Pattern](职责链模式-Chain of Responsibility Pattern.md)
    * [命令模式-Command Pattern](命令模式-Command Pattern.md)
    * [解释器模式-Interpreter Pattern](解释器模式-Interpreter Pattern.md)
-   * 迭代器模式-Iterator Pattern
+   * [迭代器模式-Iterator Pattern](迭代器模式-Iterator Pattern.md)
 
