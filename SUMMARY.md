@@ -55,4 +55,5 @@
    * [享元模式-Flyweight Pattern](享元模式-Flyweight Pattern.md)
    * [代理模式-Proxy Pattern](代理模式-Proxy Pattern.md)
 * [十一个行为型模式](十一个行为型模式.md)
+   * 职责链模式-Chain of Responsibility Pattern
 
