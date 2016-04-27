@@ -101,6 +101,7 @@
        * [自定义语言的实现——解释器模式（二）](自定义语言的实现——解释器模式（二）.md)
        * [自定义语言的实现——解释器模式（三）](自定义语言的实现——解释器模式（三）.md)
        * [自定义语言的实现——解释器模式（四）](自定义语言的实现——解释器模式（四）.md)
+       * 自定义语言的实现——解释器模式（五）
    * [迭代器模式-Iterator Pattern](迭代器模式-Iterator Pattern.md)
    * [中介者模式-Mediator Pattern](中介者模式-Mediator Pattern.md)
    * [备忘录模式-Memento Pattern](备忘录模式-Memento Pattern.md)
