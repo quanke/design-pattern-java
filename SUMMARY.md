@@ -85,6 +85,7 @@
        * [设计模式之代理模式（四）](设计模式之代理模式（四）.md)
 * [十一个行为型模式](十一个行为型模式.md)
    * [职责链模式-Chain of Responsibility Pattern](职责链模式-Chain of Responsibility Pattern.md)
+       * 请求的链式处理——职责链模式（一）
    * [命令模式-Command Pattern](命令模式-Command Pattern.md)
    * [解释器模式-Interpreter Pattern](解释器模式-Interpreter Pattern.md)
    * [迭代器模式-Iterator Pattern](迭代器模式-Iterator Pattern.md)
