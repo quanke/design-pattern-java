@@ -91,6 +91,7 @@
        * [请求的链式处理——职责链模式（四）](请求的链式处理——职责链模式（四）.md)
    * [命令模式-Command Pattern](命令模式-Command Pattern.md)
        * [请求发送者与接收者解耦——命令模式（一）](请求发送者与接收者解耦——命令模式（一）.md)
+       * 请求发送者与接收者解耦——命令模式（二）
    * [解释器模式-Interpreter Pattern](解释器模式-Interpreter Pattern.md)
    * [迭代器模式-Iterator Pattern](迭代器模式-Iterator Pattern.md)
    * [中介者模式-Mediator Pattern](中介者模式-Mediator Pattern.md)
