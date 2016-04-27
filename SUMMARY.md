@@ -87,6 +87,7 @@
    * [职责链模式-Chain of Responsibility Pattern](职责链模式-Chain of Responsibility Pattern.md)
        * [请求的链式处理——职责链模式（一）](请求的链式处理——职责链模式（一）.md)
        * [请求的链式处理——职责链模式（二）](请求的链式处理——职责链模式（二）.md)
+       * 请求的链式处理——职责链模式（三）
    * [命令模式-Command Pattern](命令模式-Command Pattern.md)
    * [解释器模式-Interpreter Pattern](解释器模式-Interpreter Pattern.md)
    * [迭代器模式-Iterator Pattern](迭代器模式-Iterator Pattern.md)
