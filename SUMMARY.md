@@ -50,7 +50,7 @@
    * [适配器模式-Adapter Pattern](适配器模式-Adapter Pattern.md)
        * [不兼容结构的协调——适配器模式（一）](不兼容结构的协调——适配器模式（一）.md)
        * [不兼容结构的协调——适配器模式（二）](不兼容结构的协调——适配器模式（二）.md)
-       * 不兼容结构的协调——适配器模式（三）
+       * [不兼容结构的协调——适配器模式（三）](不兼容结构的协调——适配器模式（三）.md)
    * [桥接模式-Bridge Pattern](桥接模式-Bridge Pattern.md)
    * [组合模式-Composite Pattern](组合模式-Composite Pattern.md)
    * [装饰模式-Decorator Pattern](装饰模式-Decorator Pattern.md)
