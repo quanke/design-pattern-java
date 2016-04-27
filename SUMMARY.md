@@ -53,5 +53,6 @@
    * [装饰模式-Decorator Pattern](装饰模式-Decorator Pattern.md)
    * [外观模式-Facade Pattern](外观模式-Facade Pattern.md)
    * [享元模式-Flyweight Pattern](享元模式-Flyweight Pattern.md)
+   * 代理模式-Proxy Pattern
 * [十一个行为型模式](十一个行为型模式.md)
 
