@@ -54,6 +54,7 @@
        * [不兼容结构的协调——适配器模式（四）](不兼容结构的协调——适配器模式（四）.md)
    * [桥接模式-Bridge Pattern](桥接模式-Bridge Pattern.md)
        * [处理多维度变化——桥接模式（一）](处理多维度变化——桥接模式（一）.md)
+       * 处理多维度变化——桥接模式（二）
    * [组合模式-Composite Pattern](组合模式-Composite Pattern.md)
    * [装饰模式-Decorator Pattern](装饰模式-Decorator Pattern.md)
    * [外观模式-Facade Pattern](外观模式-Facade Pattern.md)
