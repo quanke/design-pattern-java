@@ -50,6 +50,6 @@
    * [适配器模式-Adapter Pattern](适配器模式-Adapter Pattern.md)
    * [桥接模式-Bridge Pattern](桥接模式-Bridge Pattern.md)
    * [组合模式-Composite Pattern](组合模式-Composite Pattern.md)
-   * 装饰模式-Decorator Pattern
+   * [装饰模式-Decorator Pattern](装饰模式-Decorator Pattern.md)
 * [十一个行为型模式](十一个行为型模式.md)
 
