@@ -112,7 +112,7 @@
        * [遍历聚合对象中的元素——迭代器模式（六）](遍历聚合对象中的元素——迭代器模式（六）.md)
    * [中介者模式-Mediator Pattern](中介者模式-Mediator Pattern.md)
        * [协调多个对象之间的交互——中介者模式（一）](协调多个对象之间的交互——中介者模式（一）.md)
-       * 协调多个对象之间的交互——中介者模式（二）
+       * [协调多个对象之间的交互——中介者模式（二）](协调多个对象之间的交互——中介者模式（二）.md)
    * [备忘录模式-Memento Pattern](备忘录模式-Memento Pattern.md)
    * [观察者模式-Observer Pattern](观察者模式-Observer Pattern.md)
    * [状态模式-State Pattern](状态模式-State Pattern.md)
