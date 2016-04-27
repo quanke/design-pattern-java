@@ -108,6 +108,7 @@
        * [遍历聚合对象中的元素——迭代器模式（二）](遍历聚合对象中的元素——迭代器模式（二）.md)
        * [遍历聚合对象中的元素——迭代器模式（三）](遍历聚合对象中的元素——迭代器模式（三）.md)
        * [遍历聚合对象中的元素——迭代器模式（四）](遍历聚合对象中的元素——迭代器模式（四）.md)
+       * 遍历聚合对象中的元素——迭代器模式（五）
    * [中介者模式-Mediator Pattern](中介者模式-Mediator Pattern.md)
    * [备忘录模式-Memento Pattern](备忘录模式-Memento Pattern.md)
    * [观察者模式-Observer Pattern](观察者模式-Observer Pattern.md)
