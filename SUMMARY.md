@@ -70,7 +70,7 @@
        * [扩展系统功能——装饰模式（四）](扩展系统功能——装饰模式（四）.md)
    * [外观模式-Facade Pattern](外观模式-Facade Pattern.md)
        * [深入浅出外观模式（一）](深入浅出外观模式（一）.md)
-       * 深入浅出外观模式（二）
+       * [深入浅出外观模式（二）](深入浅出外观模式（二）.md)
    * [享元模式-Flyweight Pattern](享元模式-Flyweight Pattern.md)
    * [代理模式-Proxy Pattern](代理模式-Proxy Pattern.md)
 * [十一个行为型模式](十一个行为型模式.md)
