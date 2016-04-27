@@ -60,4 +60,5 @@
    * [解释器模式-Interpreter Pattern](解释器模式-Interpreter Pattern.md)
    * [迭代器模式-Iterator Pattern](迭代器模式-Iterator Pattern.md)
    * [中介者模式-Mediator Pattern](中介者模式-Mediator Pattern.md)
+   * 备忘录模式-Memento Pattern
 
