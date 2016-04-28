@@ -121,6 +121,7 @@
        * [撤销功能的实现——备忘录模式（二）](撤销功能的实现——备忘录模式（二）.md)
        * [撤销功能的实现——备忘录模式（三）](撤销功能的实现——备忘录模式（三）.md)
        * [撤销功能的实现——备忘录模式（四）](撤销功能的实现——备忘录模式（四）.md)
+       * 撤销功能的实现——备忘录模式（五）
    * [观察者模式-Observer Pattern](观察者模式-Observer Pattern.md)
    * [状态模式-State Pattern](状态模式-State Pattern.md)
    * [策略模式-Strategy Pattern](策略模式-Strategy Pattern.md)
