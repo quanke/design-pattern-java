@@ -135,6 +135,7 @@
        * [处理对象的多种状态及其相互转换——状态模式（三）](处理对象的多种状态及其相互转换——状态模式（三）.md)
        * [处理对象的多种状态及其相互转换——状态模式（四）](处理对象的多种状态及其相互转换——状态模式（四）.md)
        * [处理对象的多种状态及其相互转换——状态模式（五）](处理对象的多种状态及其相互转换——状态模式（五）.md)
+       * 处理对象的多种状态及其相互转换——状态模式（六）
    * [策略模式-Strategy Pattern](策略模式-Strategy Pattern.md)
    * [模板方法模式-Template Method Pattern](模板方法模式-Template Method Pattern.md)
    * [访问者模式-Visitor Pattern](访问者模式-Visitor Pattern.md)
