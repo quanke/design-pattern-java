@@ -138,6 +138,7 @@
        * [处理对象的多种状态及其相互转换——状态模式（六）](处理对象的多种状态及其相互转换——状态模式（六）.md)
    * [策略模式-Strategy Pattern](策略模式-Strategy Pattern.md)
        * [算法的封装与切换——策略模式（一）](算法的封装与切换——策略模式（一）.md)
+       * 算法的封装与切换——策略模式（二）
    * [模板方法模式-Template Method Pattern](模板方法模式-Template Method Pattern.md)
    * [访问者模式-Visitor Pattern](访问者模式-Visitor Pattern.md)
 * [设计模式综合应用实例](设计模式综合应用实例.md)
