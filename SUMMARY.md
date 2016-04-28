@@ -126,6 +126,7 @@
        * [对象间的联动——观察者模式（一）](对象间的联动——观察者模式（一）.md)
        * [对象间的联动——观察者模式（二）](对象间的联动——观察者模式（二）.md)
        * [对象间的联动——观察者模式（三）](对象间的联动——观察者模式（三）.md)
+       * 对象间的联动——观察者模式（四）
    * [状态模式-State Pattern](状态模式-State Pattern.md)
    * [策略模式-Strategy Pattern](策略模式-Strategy Pattern.md)
    * [模板方法模式-Template Method Pattern](模板方法模式-Template Method Pattern.md)
