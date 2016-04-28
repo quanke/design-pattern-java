@@ -117,6 +117,7 @@
        * [协调多个对象之间的交互——中介者模式（四）](协调多个对象之间的交互——中介者模式（四）.md)
        * [协调多个对象之间的交互——中介者模式（五）](协调多个对象之间的交互——中介者模式（五）.md)
    * [备忘录模式-Memento Pattern](备忘录模式-Memento Pattern.md)
+       * 撤销功能的实现——备忘录模式（一）
    * [观察者模式-Observer Pattern](观察者模式-Observer Pattern.md)
    * [状态模式-State Pattern](状态模式-State Pattern.md)
    * [策略模式-Strategy Pattern](策略模式-Strategy Pattern.md)
