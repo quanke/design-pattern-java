@@ -9,6 +9,8 @@ Sunny在CSDN技术博客中陆续发表了100多篇与设计模式学习相关�
 
 源码下载地址：http://www.chinasa.info/download/DP-Code.rar
 
+课件下载地址：http://www.chinasa.info/download/DP-Slides.rar
+
 作者：刘伟  http://blog.csdn.net/lovelion
 
 编辑：http://quanke.name
