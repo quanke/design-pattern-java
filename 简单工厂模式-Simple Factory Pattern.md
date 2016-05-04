@@ -1,5 +1,7 @@
 # 简单工厂模式-Simple Factory Pattern
 
+[简单工厂模式源码](https://github.com/quanke/design-pattern-java-source-code/tree/master/Chapter%2004%20Simple%20Factory)
+
 简单工厂模式-Simple Factory Pattern【学习难度：★★☆☆☆，使用频率：★★★☆☆】
 
 
