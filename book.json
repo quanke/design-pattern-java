@@ -1,10 +1,15 @@
 {
     "plugins": [
-        "github"
+        "github",
+        "ga"
     ],
     "pluginsConfig": {
         "github": {
             "url": "https://github.com/quanke/design-pattern-java"
+        },
+        "ga": {
+            "token": "UA-82833335-3",
+            "configuration": "auto"
         }
     }
 }
