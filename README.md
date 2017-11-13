@@ -19,5 +19,7 @@ Sunny在CSDN技术博客中陆续发表了100多篇与设计模式学习相关�
 E-mail:weiliu_china@126.com 
 微博地址：http://weibo.com/csusunny
 
+更多请关注我的微信公众号：
 
-更多干货，请关注：http://quanke.name
+![](/assets/qrcode_for_gh_26893aa0a4ea_258.jpg)
+
